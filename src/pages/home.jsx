@@ -35,7 +35,6 @@ function Home() {
           </Fade>
           <Fade bottom>
             <Contact /></Fade>
-          {/* <Footer /> */}
           <FooterBottom />
         </div>{" "}
       </div>{" "}

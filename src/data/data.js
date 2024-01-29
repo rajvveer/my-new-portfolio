@@ -9,12 +9,7 @@ export const featuresData = [
     title: "WebApp Development",
     des: "Crafting dynamic and scalable web applications tailored to meet your unique needs. Elevate your online presence with cutting-edge technology, intuitive design, and seamless functionality.",
   },
-  // {
-  //   id: 2,
-  //   icon: <AiFillAppstore />,
-  //   title: "App Development",
-  //   des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
-  // },
+  
   {
     id: 3,
     icon: <SiProgress />,

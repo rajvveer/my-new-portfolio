@@ -46,36 +46,7 @@ const Resume = () => {
             Professional Skills
           </li>
        
-          {/* <li
-            onClick={() =>
-              setEducationData(false) &
-              setSkillData(false) &
-              setExperienceData(true) &
-              setAchievementData(false)
-            }
-            className={`${
-              experienceData
-                ? "border-designColor rounded-lg"
-                : "border-transparent"
-            } resumeLi`}
-          >
-            Experience
-          </li> */}
-          {/* <li
-            onClick={() =>
-              setEducationData(false) &
-              setSkillData(false) &
-              setExperienceData(false) &
-              setAchievementData(true)
-            }
-            className={`${
-              achievementData
-                ? "border-designColor rounded-lg"
-                : "border-transparent"
-            } resumeLi`}
-          >
-            Achievements
-          </li> */}
+         
         </ul>
       </div>
       
